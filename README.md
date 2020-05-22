@@ -17,16 +17,16 @@
 [live demo](https://raw.githack.com/luciano-ilha/Positioning-and-Floating-Elements/feature/index.html)
 
 
- # Prerequisites #
- All Modern web browsers like:
-- Chrome 
+ # Prerequisites #
+ All Modern web browsers like:
+- Chrome 
 - Firefox
 - Safari
 
 
 ## Getting Started
 
-To get a local copy of the repository please run the following commands on your terminal:
+To get a local copy of the repository, please run the following commands on your terminal:
 
 ```
 $ cd <folder>
@@ -38,15 +38,15 @@ $ git clone https://github.com/luciano-ilha/Positioning-and-Floating-Elements.gi
 
 
 
- # Authors # 
+ # Authors # 
 
 
 👤 Luciano Ilha
- - [github](https://github.com/luciano-ilha)
- - [LinkedIn](https://www.linkedin.com/in/luciano-ilha-carbonell-188115a0/
+ - [github](https://github.com/luciano-ilha)
+ - [LinkedIn](https://www.linkedin.com/in/luciano-ilha-carbonell-188115a0/
 )
- - [twitter](https://twitter.com/CarbonellIlha
-)   
+ - [twitter](https://twitter.com/CarbonellIlha
+)   
 
 
 👤 Vitalie Melnic
@@ -58,9 +58,9 @@ $ git clone https://github.com/luciano-ilha/Positioning-and-Floating-Elements.gi
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!
+Contributions issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/luciano-ilha/Positioning-and-Floating-Elements/issues).
+Check the [issues page](https://github.com/luciano-ilha/Positioning-and-Floating-Elements/issues).
 
 ## Show your support
 
